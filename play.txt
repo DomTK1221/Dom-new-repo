@@ -2,3 +2,7 @@ Scene 1
 Dom - Hey Sara, what are you up to?
 Sara: Not too bad, just suffering with this Git stuff
 
+Scene 2
+4 days later on a cold evening Sara decides to over do her git control use 
+
+
